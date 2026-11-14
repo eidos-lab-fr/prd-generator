@@ -1,8 +1,8 @@
 # PRD Generator
 
 Answer five questions, get a structured product requirements document drafted by Claude.
-**[Try it live](https://eidos-lab-fr.github.io/prd-generator/)**
 
+**[Website](https://eidos-lab-fr.github.io/prd-generator/about.html)** · **[Open the app](https://eidos-lab-fr.github.io/prd-generator/)**
 
 ## Features
 
