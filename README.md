@@ -2,7 +2,7 @@
 
 Answer five questions, get a structured product requirements document drafted by Claude.
 
-**[Website](https://eidos-lab-fr.github.io/prd-generator/about.html)** · **[Open the app](https://eidos-lab-fr.github.io/prd-generator/)**
+**[Website](https://eidoslab.fr/prd-generator)** · **[Open the app](https://eidos-lab-fr.github.io/prd-generator/)**
 
 ## Features
 
